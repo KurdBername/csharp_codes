@@ -1,0 +1,6 @@
+D:\مجلد جديد (2)\csharp_codes\Firstvarible\Firstvarible\bin\Debug\Firstvarible.exe.config
+D:\مجلد جديد (2)\csharp_codes\Firstvarible\Firstvarible\bin\Debug\Firstvarible.exe
+D:\مجلد جديد (2)\csharp_codes\Firstvarible\Firstvarible\bin\Debug\Firstvarible.pdb
+D:\مجلد جديد (2)\csharp_codes\Firstvarible\Firstvarible\obj\Debug\Firstvarible.csprojResolveAssemblyReference.cache
+D:\مجلد جديد (2)\csharp_codes\Firstvarible\Firstvarible\obj\Debug\Firstvarible.exe
+D:\مجلد جديد (2)\csharp_codes\Firstvarible\Firstvarible\obj\Debug\Firstvarible.pdb
