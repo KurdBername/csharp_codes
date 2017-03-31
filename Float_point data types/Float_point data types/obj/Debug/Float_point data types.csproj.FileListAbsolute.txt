@@ -1,0 +1,6 @@
+D:\مجلد جديد (2)\csharp_codes\Float_point data types\Float_point data types\bin\Debug\Float_point data types.exe.config
+D:\مجلد جديد (2)\csharp_codes\Float_point data types\Float_point data types\bin\Debug\Float_point data types.exe
+D:\مجلد جديد (2)\csharp_codes\Float_point data types\Float_point data types\bin\Debug\Float_point data types.pdb
+D:\مجلد جديد (2)\csharp_codes\Float_point data types\Float_point data types\obj\Debug\Float_point data types.csprojResolveAssemblyReference.cache
+D:\مجلد جديد (2)\csharp_codes\Float_point data types\Float_point data types\obj\Debug\Float_point data types.exe
+D:\مجلد جديد (2)\csharp_codes\Float_point data types\Float_point data types\obj\Debug\Float_point data types.pdb
