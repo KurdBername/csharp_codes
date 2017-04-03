@@ -1,0 +1,6 @@
+D:\مجلد جديد (2)\csharp_codes\char project\char project\bin\Debug\char project.exe.config
+D:\مجلد جديد (2)\csharp_codes\char project\char project\bin\Debug\char project.exe
+D:\مجلد جديد (2)\csharp_codes\char project\char project\bin\Debug\char project.pdb
+D:\مجلد جديد (2)\csharp_codes\char project\char project\obj\Debug\char project.csprojResolveAssemblyReference.cache
+D:\مجلد جديد (2)\csharp_codes\char project\char project\obj\Debug\char project.exe
+D:\مجلد جديد (2)\csharp_codes\char project\char project\obj\Debug\char project.pdb
